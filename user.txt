@@ -1,0 +1,3 @@
+admin;password
+anze;capstone
+sasa;sasa
